@@ -1,4 +1,8 @@
 _repo: Ticonderoga-A-Story-Of-Early-Frontier-Life-In-The-Mohawk-Valley_50853
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50853-h/images/book_cover.png
 creator:
   author:
     agent_name: James, G. P. R. (George Payne Rainsford)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1301
     wikipedia: http://en.wikipedia.org/wiki/George_Payne_Rainsford_James
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50853#Ticonderoga-A-Story-Of-Early-Frontier-Life-In-The-Mohawk-Valley
 gutenberg_issued: '2016-01-05'
 gutenberg_type: Text
 identifiers:
